@@ -1,0 +1,1 @@
+# netology-homework-08-automation-ci-cd-7-01-ansible-part-1
