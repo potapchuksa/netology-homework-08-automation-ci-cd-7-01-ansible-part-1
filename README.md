@@ -31,7 +31,25 @@
 4. Проверьте доступность хостов с помощью модуля ping.
 
 ### Решение
- 
+
+1. Установил Ansible на xubuntu-ansible.
+![](img/img-02-01.png)
+2. Настроил управляемые машины.
+* установил ssh на xubuntu-1 и xubuntu-2
+![](img/img-02-02.png)
+![](img/img-02-03.png)
+* сгенерировал ключ на xubuntu-ansible
+![](img/img-02-04.png)
+* скопировал его на xubuntu-1 и xubuntu-2
+![](img/img-02-05.png)
+![](img/img-02-06.png)
+3. Создал файл inventory.ini с созданными ВМ и конфигурационный файл ansible.cfg.
+![](img/img-02-07.png)
+![](img/img-02-08.png)
+![](img/img-02-09.png)
+4. Проверил доступность хостов с помощью модуля ping.
+![](img/img-02-10.png)
+
 ---
 
 ### Задание 3 
