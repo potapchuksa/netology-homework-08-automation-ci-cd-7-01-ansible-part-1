@@ -77,4 +77,18 @@
 
 ### Решение
 
+1. Установил на управляемых хостах links.
+![](img/img-04-01.png)
+![](img/img-04-02.png)
+проверил
+![](img/img-04-08.png)
+![](img/img-04-09.png)
+2. Проверил статус ssh сервиса. 
+![](img/img-04-03.png)
+![](img/img-04-04.png)
+3. Создал файл с содержимым «I like Linux» по пути /tmp/netology.txt.
+![](img/img-04-05.png)
+![](img/img-04-06.png)
+проверил
+![](img/img-04-07.png)
  
